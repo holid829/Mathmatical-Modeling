@@ -1,0 +1,1 @@
+Two projects focused on modeling past market crashes, and evaluating whether or not certain metrics would be a good indicator and predictor of future crashes.
